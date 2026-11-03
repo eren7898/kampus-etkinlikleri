@@ -5,7 +5,7 @@ Bu proje, üniversite kampüsündeki seminer, atölye, söyleşi ve yarışma gi
 ## 👨‍🎓 Öğrenci Bilgileri
 - **Ad Soyad:** Eren Cem Çelik
 - **Öğrenci Numarası:** `2321032014`
-
+SİTE LİNKİ :'https://erencemcelik-frontend.vercel.app/'
 ---
 
 ## 🔐 Giriş Sayfası (İsteğe Bağlı)
